@@ -1,1 +1,3 @@
 - Inspired by Karianne
+- here's the web version (does not support pc for now, still working on it):
+- https://student-emergency.rasheedmacantan9.workers.dev/
